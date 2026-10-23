@@ -7,7 +7,6 @@ const jsonLd = {
   name: business.name,
   areaServed: business.market,
   telephone: `+${business.phoneNormalized}`,
-  url: "https://ge-cleaning-services.vercel.app",
   sameAs: [business.instagram],
   contactPoint: [
     {

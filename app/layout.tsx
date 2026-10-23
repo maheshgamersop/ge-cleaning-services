@@ -9,7 +9,6 @@ export const metadata: Metadata = {
     title: "GE Cleaning Services",
     description:
       "Premium home and office cleaning services in the UAE with simple WhatsApp booking.",
-    url: "https://ge-cleaning-services.vercel.app",
     siteName: "GE Cleaning Services",
     locale: "en_AE",
     type: "website",

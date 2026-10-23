@@ -320,7 +320,7 @@ export function HomePage() {
                   Continue on WhatsApp
                 </button>
                 <a
-                  href={`mailto:${business.email}?subject=${encodeURIComponent("Booking request")}&body=${encodeURIComponent(bookingMessage)}`}
+                  href={`mailto:?subject=${encodeURIComponent("Booking request")}&body=${encodeURIComponent(bookingMessage)}`}
                   className="rounded-full border border-zinc-300 px-5 py-2 text-sm font-semibold text-zinc-700 hover:bg-white"
                 >
                   Email fallback

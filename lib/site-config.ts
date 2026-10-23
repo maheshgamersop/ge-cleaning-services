@@ -7,7 +7,6 @@ export const business = {
   market: "UAE",
   mapLink: "",
   mapLabel: "Map link will be added here once verified.",
-  email: "contact@gecleaningservices.ae",
 };
 
 export const navItems = [
